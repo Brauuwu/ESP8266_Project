@@ -1,2 +1,2 @@
-# ESP8266_Project
+# ESP8266_Projects
 Just some Projects with ESP8266
